@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.1.0.108 on 2016-09-28 at 15:50 (GMT-7)-->
+<!--Last edited by Ukelele version 3.1.0.108 on 2016-09-28 at 16:10 (GMT-7)-->
 <keyboard group="126" id="-23384" name="Dvorak EO EN" maxout="2">
 	<layouts>
 		<layout first="0" last="0" mapSet="a14" modifiers="f4"/>
@@ -990,7 +990,7 @@
 			<when state="g" output="gx"/>
 			<when state="h" output="hx"/>
 			<when state="j" output="jx"/>
-			<when state="s" output="ŝ"/>
+			<when state="s" output="sx"/>
 			<when state="u" output="ux"/>
 		</action>
 		<action id="c">
